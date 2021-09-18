@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="ISO-8859-1">
+<title>Inicial</title>
+</head>
+<body>
+	<form action="comprobarUsuario.jsp" method="post">
+		<label>Usuario</label> <input type="text" name="usuario"><br>
+		<label>Contraseña</label> <input type="password" name="pass"><br>
+		<input type="submit">
+	</form>
+</body>
+</html>
